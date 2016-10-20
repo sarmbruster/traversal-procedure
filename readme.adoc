@@ -1,0 +1,5 @@
+# neo4j-traversal-procedure
+
+This project demos the usage of Neo4j's traversal API together with a branch state. The code example is built into a stored procedure `treeAsNestedMap` that traverses down a tree hierarchy and collects all nodes into a nested map.
+
+For usage, see link:src/test/groovy/TraversalSpec.groovy[]
